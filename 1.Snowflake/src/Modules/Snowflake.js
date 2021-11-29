@@ -12,7 +12,7 @@ export class Snowflake {
     * @param    {number} snowflake
     */
     constructor(snowflake) {
-        this.provided = snowflake
+        this.provided = Number(snowflake)
 
         if(snowflake == undefined) {
             throw new Error("You must provide a snowflake while creating a Instance of this class.")
