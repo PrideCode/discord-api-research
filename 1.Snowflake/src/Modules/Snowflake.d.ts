@@ -1,7 +1,7 @@
-// Copyright (C) 2021 PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
+// Copyright (C) PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
 
 export class Snowflake {
-    constructor(snowflake: number) {}
+    constructor(snowflake: number)
 
     #convertBinaryToData(binary: string): SnowflakeData
     analyze(): SnowflakeData
@@ -15,5 +15,5 @@ export interface SnowflakeData {
     incremented: string
 }
 
-var provided: number
-var binary: number
+export var provided: number
+export var binary: number

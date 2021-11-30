@@ -1,4 +1,4 @@
-// Copyright (C) 2021 PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
+// Copyright (C) PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
 
 /**
 * This Class can convert snowflake to the single units like (timestamp, iworkerid, processid, id)
