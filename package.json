@@ -1,0 +1,22 @@
+{
+  "name": "discord-api-research",
+  "version": "1.0.0",
+  "description": "A PrideCode Projects. To join this project visit https://dsc.gg/pridecode",
+  "main": "index.js",
+  "scripts": {
+    "n": "echo null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrideCode/discord-api-research.git"
+  },
+  "author": "The PrideCode Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrideCode/discord-api-research/issues"
+  },
+  "homepage": "https://github.com/PrideCode/discord-api-research#readme",
+  "dependencies": {
+    "yarn": "^1.22.17"
+  }
+}
