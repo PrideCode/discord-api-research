@@ -22,7 +22,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Copyright Comment Check
-        uses: liquiddevelopmentnet/copyright-check-action@1.4
+        uses: liquiddevelopmentnet/copyright-check-action@stable-1.0
         with:
           # In which path you wanna check
           path: ./**/*.js
