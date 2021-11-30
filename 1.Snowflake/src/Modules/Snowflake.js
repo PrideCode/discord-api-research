@@ -25,10 +25,10 @@ export class Snowflake {
     * @returns  {SnowflakeData}
     */
     analyze() {
-        this.binary = (this.provided % 2).toString();
+        this.binary = (this.provided % 2).toString()
         for (; this.provided > 1 ;) {
-            this.provided = parseInt(this.provided / 2);
-            this.binary =  (this.provided % 2) + (this.binary);
+            this.provided = parseInt(this.provided / 2)
+            this.binary =  (this.provided % 2) + (this.binary)
         }
 
         this.data = this.#convertBinaryToData(this.binary)
