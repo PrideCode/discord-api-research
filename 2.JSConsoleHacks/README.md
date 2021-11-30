@@ -1,0 +1,1 @@
+## ⚠ This is for educational purposes only. Using this hacks can result some penalities from discord!
