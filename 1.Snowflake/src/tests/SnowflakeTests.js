@@ -1,4 +1,4 @@
-// Copyright (C) 2021 PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
+// Copyright (C) PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
 
 import chai from "chai"
 import { Snowflake } from "../Modules/Snowflake.js"

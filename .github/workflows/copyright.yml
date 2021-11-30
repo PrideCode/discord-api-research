@@ -27,4 +27,4 @@ jobs:
           # In which path you wanna check
           path: ./**/*.js
           # For what should the action check
-          string: // Copyright (C) 2021 PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
+          string: // Copyright (C) PrideCode. Written by the PrideCode Contributors. Licensed under the MIT License (https://opensource.org/licenses/MIT)
